@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-WalkCounter in WalkCounter, no dependencies
-WalkCounter in WalkCounter, no dependencies

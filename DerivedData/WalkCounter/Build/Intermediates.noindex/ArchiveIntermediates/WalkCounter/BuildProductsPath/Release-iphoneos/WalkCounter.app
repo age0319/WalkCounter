@@ -1,1 +1,0 @@
-/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/InstallationBuildProductsLocation/Applications/WalkCounter.app
