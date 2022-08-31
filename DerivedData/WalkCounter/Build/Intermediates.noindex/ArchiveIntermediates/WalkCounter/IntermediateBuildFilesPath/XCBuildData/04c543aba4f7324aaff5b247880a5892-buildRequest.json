@@ -1,0 +1,73 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2274f5a2443573d69357b38754805788690d3f3849149a4262392849677cbbaf"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Products",
+      "derivedDataPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath/WatchKitSupport2",
+          "WATCHKIT_SUPPORT_FOLDER_PATH" : "/Users/nokkun/Documents/WalkCounter/DerivedData/WalkCounter/Build/Intermediates.noindex/ArchiveIntermediates/WalkCounter/BuildProductsPath/WatchKitSupport"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

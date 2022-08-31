@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "a5a0cf54d2817afcc785277d45abb946"
+build_time: [1639273917, 461444000]
+inputs:
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/CellView.swift": [1638571519, 673487932]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/HolidayJP.swift": [1637560811, 256317231]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/RankingView.swift": [1638569436, 853995908]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/AppDelegate.swift": [1636504572, 969971661]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/DateExtension.swift": [1637717843, 158030461]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/WorkoutView.swift": [1638769720, 817343516]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/CalendarView.swift": [1638841051, 990010673]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/HKManager.swift": [1638841051, 972976343]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/SettingView.swift": [1637891901, 116959414]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/SceneDelegate.swift": [1636504572, 980517639]
+  "/Users/nokkun/Documents/WalkCounter/WalkCounter/ContentView.swift": [1638930494, 674274208]
